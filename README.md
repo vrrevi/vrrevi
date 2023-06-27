@@ -14,8 +14,9 @@ This article was written in WordPress as part of my freelance work for Integral 
 This document was created for field representatives who use the IvyRep mobile app for their day-to-day activities. This FAQ addressed the frequent calls to the Support Team.
    - [FAQ](https://github.com/vrrevi/vrrevi/blob/main/IvyRep_FAQs.docx)
 
-**Getting Started**
- 
+**User Manual**
+This training manual was created for a pharma Android mobile application.
+- []()
 
 ## Personal writing projects
 ### API Documentation
