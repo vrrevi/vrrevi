@@ -1,6 +1,5 @@
-**Hi there🙌🏾**
-
-Thanks for viewing my technical writing portfolio.
+**Hi there🙌🏾**  
+I'm Revathi, a Technical Writer based out of London. I have been a Technical Writer for more than 5 years.
 This repository has some of my writing samples I created at work and also personal projects that I experimented with.
 
 ## Writing samples from work
