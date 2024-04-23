@@ -4,10 +4,11 @@ This repository has some of my writing samples I created at work and also person
 
 ## Writing samples from work
 
-### Technical Blog Article
+### Technical Blog Articles
 This article was written in WordPress as part of my freelance work for Integral Zone. I collaborated with the developers, understood the IZ product suite, and drafted the document. The final draft was reviewed for technical correctness, writing style, and tone of IZ.
 
    - [Why automating code quality is an ROI for the business?](https://techwriteportfolio.wordpress.com/portfolio/why-automating-code-quality-is-an-roi-for-the-business/)
+   - [What is No-code?(https://github.com/vrrevi/Technical-Writing-Portfolio/blob/main/NoCode.md)]
 
 ### FAQ Document
 This document was created for field representatives who use the IvyRep mobile app for their day-to-day activities. This FAQ addressed the frequent calls to the Support Team.
