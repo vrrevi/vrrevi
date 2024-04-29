@@ -13,17 +13,13 @@ This article was written in WordPress as part of my freelance work. I collaborat
 This document was created in my work. It addressed the frequent calls to the Support Team. I have changed the product names.
    - [FAQ]([https://github.com/vrrevi/vrrevi/blob/main/IvyRep_FAQs.docx](https://github.com/vrrevi/vrrevi/blob/main/FAQ/FAQ.md))
 
-**User Manual**
-This training manual was created for a pharma Android mobile application.
-- []()
-
 ## Personal writing projects
 ### API Documentation
 This document was created when I practiced documenting REST APIs.
    - [Star Wars API](https://github.com/vrrevi/vrrevi/blob/main/API%20documentation/StarWars%20API.md)
 ### Markdown
 I created this document when I learnt the Markdown syntax.
-- [Getting Started with WhatsApp](https://github.com/vrrevi/vrrevi/blob/main/Getting%20Started%20with%20WhatsApp.md)
+- [Getting Started with WhatsApp](https://github.com/vrrevi/vrrevi/blob/main/Markdown/Getting%20Started%20with%20WA.md)
 ### Video Tutorials
 I created these video tutorials in Camatasia for MadCapFlare features.
    - [Adding a new target](https://youtu.be/Oc2oLq0vrHo)
