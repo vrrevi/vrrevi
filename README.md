@@ -11,4 +11,4 @@ This repository has some of my writing samples to showcase to potential employer
 | [Star Wars API](https://github.com/vrrevi/vrrevi/blob/main/API%20documentation/StarWars%20API.md)  | Reference         | This document was created when I practiced documenting REST APIs.|
 | [Getting Started with WhatsApp](https://github.com/vrrevi/vrrevi/blob/main/Markdown/Getting%20Started%20with%20WA.md) | How-to  | I created this document when I learnt the Markdown syntax.|
 | [Creating a new project from existing project](https://youtu.be/aVkntklsqN0) | Video Tutorial  | I created the video tutorial in Camatasia for MadCapFlare features.|
-| [A Quick Start Guide to Jira issues](https://github.com/vrrevi/vrrevi/blob/main/A%20Quick%20Start%20Guide%20to%20Jira%20Issues.pdf) | How-to | This QSG was created to showcase my Structured FrameMaker tool knowledge. |
+
